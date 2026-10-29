@@ -157,6 +157,7 @@ Claude Plugins are extensions that enhance Claude Code with custom slash command
 - [codebase-graph](https://github.com/Phoenixrr2113/codebase-graph) - Code intelligence MCP server that builds knowledge graphs from source code with 42-language tree-sitter AST parsing and FalkorDB.
 - [agntk](https://github.com/Phoenixrr2113/agntk) - Zero-config AI agent CLI with persistent named agents, 20+ built-in tools, and hardware-aware local model selection.
 - [backlog](https://github.com/backloghq/backlog) - Persistent, cross-session task management. 24 MCP tools for tasks, projects, tags, dependencies, and docs. 7 skills for planning, standups, and handoffs. Event-sourced storage, agent coordination, pure TypeScript. ([Website](https://backloghq.io))
+- [slopit](https://github.com/Simbastack-hq/SlopIt/tree/main/plugins/slopit) - A blog your agent runs. Type `/blog` to start a free SlopIt blog for your project, or to draft and publish a post about what you just built from the conversation, git log and CHANGELOG. Adds the hosted SlopIt MCP server and an SEO skill. ([Website](https://slopit.io/?src=awesome-claude-plugins))
 
 ### Companion & Personality
 
